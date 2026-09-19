@@ -17,6 +17,4 @@ This is a simple website built using React JS and Vite.
 * CSS
 
 ## Author
-
-Your Name
 Hasibur rahman
